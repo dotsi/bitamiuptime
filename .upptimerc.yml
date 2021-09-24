@@ -12,7 +12,9 @@ sites:
   - name: Spica.si
     url: https://www.spica.si/
   - name: Allhours.com
-    url: https://www.allhours.com/    
+    url: https://www.allhours.com/
+  - name: Biseri-jadrana.si
+    url: https://www.biseri-jadrana.si/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
