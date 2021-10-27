@@ -82,9 +82,9 @@
     "url": "https://www.allhours.com/",
     "icon": "https://favicons.githubusercontent.com/www.allhours.com",
     "slug": "allhours-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 1453,
     "timeMonth": 1480,
     "timeYear": 1470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-27": 0
+    }
   },
   {
     "name": "Biseri-jadrana.si",
@@ -101,11 +103,11 @@
     "icon": "https://favicons.githubusercontent.com/www.biseri-jadrana.si",
     "slug": "biseri-jadrana-si",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 10504,
     "timeDay": 3527,
     "timeWeek": 5696,
