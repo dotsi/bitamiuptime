@@ -46,28 +46,30 @@
     "url": "https://www.spica.com/",
     "icon": "https://favicons.githubusercontent.com/www.spica.com",
     "slug": "spica-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1206,
     "timeDay": 1348,
     "timeWeek": 1130,
     "timeMonth": 1184,
     "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 3
+    }
   },
   {
     "name": "Spica.si",
     "url": "https://www.spica.si/",
     "icon": "https://favicons.githubusercontent.com/www.spica.si",
     "slug": "spica-si",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1193,
@@ -75,16 +77,18 @@
     "timeWeek": 1205,
     "timeMonth": 1190,
     "timeYear": 1193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 2
+    }
   },
   {
     "name": "Allhours.com",
     "url": "https://www.allhours.com/",
     "icon": "https://favicons.githubusercontent.com/www.allhours.com",
     "slug": "allhours-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +97,9 @@
     "timeWeek": 2354,
     "timeMonth": 1681,
     "timeYear": 1566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Biseri-jadrana.si",
@@ -101,11 +107,11 @@
     "icon": "https://favicons.githubusercontent.com/www.biseri-jadrana.si",
     "slug": "biseri-jadrana-si",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.73%",
-    "uptimeYear": "97.17%",
+    "uptimeYear": "97.18%",
     "time": 9099,
     "timeDay": 4408,
     "timeWeek": 6016,
