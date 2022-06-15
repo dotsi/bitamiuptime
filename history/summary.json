@@ -132,12 +132,12 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://favicons.githubusercontent.com/www.biseri-jadrana.si",
     "slug": "biseri-jadrana-si",
-    "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "94.51%",
+    "status": "down",
+    "uptime": "97.93%",
+    "uptimeDay": "96.01%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "94.85%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.93%",
     "time": 10647,
     "timeDay": 12134,
     "timeWeek": 10160,
@@ -185,8 +185,7 @@
       "2022-02-28": 30,
       "2022-02-27": 16,
       "2022-02-20": 638,
-      "2022-02-19": 977,
-      "2022-02-03": 16
+      "2022-02-19": 977
     }
   }
 ]
