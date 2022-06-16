@@ -61,7 +61,7 @@
     "time": 1198,
     "timeDay": 1174,
     "timeWeek": 1270,
-    "timeMonth": 1210,
+    "timeMonth": 1204,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2022-06-14": 25,
@@ -88,7 +88,7 @@
     "time": 1271,
     "timeDay": 1220,
     "timeWeek": 1101,
-    "timeMonth": 1173,
+    "timeMonth": 1171,
     "timeYear": 1271,
     "dailyMinutesDown": {
       "2022-06-14": 25,
@@ -115,7 +115,7 @@
     "time": 1449,
     "timeDay": 1268,
     "timeWeek": 1256,
-    "timeMonth": 1349,
+    "timeMonth": 1340,
     "timeYear": 1449,
     "dailyMinutesDown": {
       "2022-03-29": 21,
@@ -132,12 +132,12 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://favicons.githubusercontent.com/www.biseri-jadrana.si",
     "slug": "biseri-jadrana-si",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "67.08%",
-    "uptimeWeek": "94.80%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "67.07%",
+    "uptimeWeek": "94.79%",
     "uptimeMonth": "93.87%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 10720,
     "timeDay": 12879,
     "timeWeek": 11695,
@@ -180,8 +180,7 @@
       "2022-03-13": 21,
       "2022-03-12": 86,
       "2022-03-10": 16,
-      "2022-03-04": 24,
-      "2022-03-03": 19
+      "2022-03-04": 24
     }
   }
 ]
