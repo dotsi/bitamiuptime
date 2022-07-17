@@ -54,11 +54,11 @@
     "icon": "https://favicons.githubusercontent.com/www.spica.com",
     "slug": "spica-com",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 1188,
     "timeDay": 945,
     "timeWeek": 1152,
@@ -138,14 +138,14 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://favicons.githubusercontent.com/www.biseri-jadrana.si",
     "slug": "biseri-jadrana-si",
-    "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "44.78%",
+    "status": "down",
+    "uptime": "98.21%",
+    "uptimeDay": "57.58%",
     "uptimeWeek": "90.72%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "98.20%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "98.21%",
     "time": 10665,
-    "timeDay": 8481,
+    "timeDay": 5930,
     "timeWeek": 8759,
     "timeMonth": 10073,
     "timeYear": 10665,
@@ -187,7 +187,7 @@
       "2022-04-07": 17,
       "2022-04-04": 536,
       "2022-03-31": 75,
-      "2022-03-28": 108
+      "2022-03-28": 90
     }
   }
 ]
