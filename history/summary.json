@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.be-terna.com.ico",
     "slug": "be-terna",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -134,18 +134,19 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.16%",
-    "time": 10265,
+    "uptimeYear": "98.17%",
+    "time": 10261,
     "timeDay": 4038,
     "timeWeek": 5374,
     "timeMonth": 4558,
     "timeYear": 10412,
     "dailyMinutesDown": {
+      "2023-01-03": 0,
       "2022-10-30": 18,
       "2022-10-28": 28,
       "2022-10-17": 123,
@@ -187,8 +188,7 @@
       "2022-06-27": 60,
       "2022-06-26": 409,
       "2022-06-25": 44,
-      "2022-06-24": 186,
-      "2022-06-23": 16
+      "2022-06-24": 186
     }
   }
 ]
