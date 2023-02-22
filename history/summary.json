@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
-    "time": 1393,
-    "timeDay": 1201,
-    "timeWeek": 1771,
-    "timeMonth": 1599,
+    "time": 1392,
+    "timeDay": 1240,
+    "timeWeek": 1251,
+    "timeMonth": 1584,
     "timeYear": 1417,
     "dailyMinutesDown": {
       "2023-01-25": 22,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.91%",
-    "time": 1036,
-    "timeDay": 833,
-    "timeWeek": 947,
-    "timeMonth": 986,
+    "time": 1037,
+    "timeDay": 961,
+    "timeWeek": 932,
+    "timeMonth": 977,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2023-01-25": 100,
@@ -59,9 +59,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.73%",
     "time": 1200,
-    "timeDay": 809,
-    "timeWeek": 1037,
-    "timeMonth": 1445,
+    "timeDay": 1179,
+    "timeWeek": 1038,
+    "timeMonth": 1436,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2023-02-06": 30,
@@ -73,8 +73,7 @@
       "2022-06-14": 25,
       "2022-03-29": 21,
       "2022-03-07": 191,
-      "2022-02-28": 212,
-      "2022-02-22": 261
+      "2022-02-28": 212
     }
   },
   {
@@ -89,9 +88,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.73%",
     "time": 1232,
-    "timeDay": 754,
-    "timeWeek": 1234,
-    "timeMonth": 1124,
+    "timeDay": 1142,
+    "timeWeek": 1246,
+    "timeMonth": 1116,
     "timeYear": 1196,
     "dailyMinutesDown": {
       "2023-02-06": 29,
@@ -103,8 +102,7 @@
       "2022-06-14": 25,
       "2022-03-29": 21,
       "2022-03-07": 190,
-      "2022-02-28": 212,
-      "2022-02-22": 261
+      "2022-02-28": 212
     }
   },
   {
@@ -119,9 +117,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.86%",
     "time": 1404,
-    "timeDay": 1048,
-    "timeWeek": 1229,
-    "timeMonth": 1337,
+    "timeDay": 1330,
+    "timeWeek": 1226,
+    "timeMonth": 1327,
     "timeYear": 1367,
     "dailyMinutesDown": {
       "2023-02-06": 29,
@@ -129,8 +127,7 @@
       "2022-07-08": 20,
       "2022-03-29": 21,
       "2022-03-07": 189,
-      "2022-02-28": 212,
-      "2022-02-22": 261
+      "2022-02-28": 212
     }
   },
   {
@@ -139,18 +136,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
+    "uptime": "98.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.13%",
-    "time": 10208,
-    "timeDay": 6654,
-    "timeWeek": 7053,
-    "timeMonth": 6026,
-    "timeYear": 10137,
+    "time": 10205,
+    "timeDay": 3706,
+    "timeWeek": 4343,
+    "timeMonth": 5942,
+    "timeYear": 10134,
     "dailyMinutesDown": {
-      "2023-02-21": 7,
       "2023-01-25": 20,
       "2023-01-08": 126,
       "2023-01-07": 526,
@@ -193,7 +189,7 @@
       "2022-07-02": 84,
       "2022-06-30": 198,
       "2022-06-29": 250,
-      "2022-06-27": 17
+      "2022-06-27": 60
     }
   }
 ]
