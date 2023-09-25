@@ -105,9 +105,9 @@
     "url": "https://www.allhours.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.allhours.com.ico",
     "slug": "allhours-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
@@ -117,6 +117,7 @@
     "timeMonth": 1353,
     "timeYear": 1350,
     "dailyMinutesDown": {
+      "2023-09-25": 0,
       "2023-09-04": 22,
       "2023-06-18": 68,
       "2023-05-30": 319,
@@ -141,7 +142,7 @@
     "time": 6848,
     "timeDay": 5191,
     "timeWeek": 4410,
-    "timeMonth": 7431,
+    "timeMonth": 7336,
     "timeYear": 6004,
     "dailyMinutesDown": {
       "2023-01-25": 20,
