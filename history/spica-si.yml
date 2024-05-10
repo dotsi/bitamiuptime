@@ -1,7 +1,7 @@
 url: https://www.spica.si/
-status: up
-code: 200
-responseTime: 975
-lastUpdated: 2024-05-09T23:03:17.480Z
+status: down
+code: 502
+responseTime: 734
+lastUpdated: 2024-05-10T10:56:03.719Z
 startTime: 2021-09-08T07:59:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
