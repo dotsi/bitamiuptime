@@ -45,8 +45,8 @@
     "slug": "spica-com",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.85%",
     "time": 1259,
@@ -55,7 +55,6 @@
     "timeMonth": 1701,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2024-06-05": 2,
       "2024-05-18": 30,
       "2024-04-26": 18,
       "2024-04-16": 20,
