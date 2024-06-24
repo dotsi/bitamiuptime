@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1455,
-    "timeDay": 1925,
-    "timeWeek": 1524,
-    "timeMonth": 1472,
+    "timeDay": 1212,
+    "timeWeek": 1533,
+    "timeMonth": 1446,
     "timeYear": 1443,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1026,
-    "timeDay": 1356,
-    "timeWeek": 1111,
-    "timeMonth": 1070,
+    "timeDay": 712,
+    "timeWeek": 1092,
+    "timeMonth": 1067,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2023-09-05": 53
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1262,
-    "timeDay": 1305,
-    "timeWeek": 1173,
-    "timeMonth": 1375,
+    "time": 1261,
+    "timeDay": 924,
+    "timeWeek": 1175,
+    "timeMonth": 1373,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2024-05-18": 30,
@@ -61,8 +61,7 @@
       "2023-12-09": 69,
       "2023-12-08": 143,
       "2023-09-26": 44,
-      "2023-09-25": 257,
-      "2023-06-25": 22
+      "2023-09-25": 257
     }
   },
   {
@@ -77,9 +76,9 @@
     "uptimeMonth": "98.08%",
     "uptimeYear": "99.74%",
     "time": 1089,
-    "timeDay": 1663,
-    "timeWeek": 1384,
-    "timeMonth": 1182,
+    "timeDay": 1130,
+    "timeWeek": 1464,
+    "timeMonth": 1186,
     "timeYear": 1109,
     "dailyMinutesDown": {
       "2024-06-07": 786,
@@ -90,8 +89,7 @@
       "2023-12-08": 143,
       "2023-09-25": 231,
       "2023-09-04": 22,
-      "2023-06-26": 10,
-      "2023-06-25": 9
+      "2023-06-26": 10
     }
   },
   {
@@ -105,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.90%",
-    "time": 1288,
-    "timeDay": 1724,
-    "timeWeek": 1373,
+    "time": 1287,
+    "timeDay": 1052,
+    "timeWeek": 1438,
     "timeMonth": 1199,
-    "timeYear": 1277,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2024-06-14": 10,
       "2024-05-18": 30,
@@ -127,17 +125,16 @@
     "slug": "biseri-jadrana-si",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "99.50%",
-    "time": 8372,
-    "timeDay": 11316,
-    "timeWeek": 9445,
-    "timeMonth": 9399,
-    "timeYear": 8897,
+    "time": 8369,
+    "timeDay": 11211,
+    "timeWeek": 9718,
+    "timeMonth": 9379,
+    "timeYear": 8899,
     "dailyMinutesDown": {
-      "2024-06-23": 5,
       "2024-06-20": 82,
       "2024-06-16": 119,
       "2024-06-14": 97,
