@@ -6,18 +6,16 @@
     "slug": "be-terna",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1454,
-    "timeDay": 1740,
-    "timeWeek": 1527,
-    "timeMonth": 1456,
-    "timeYear": 1472,
-    "dailyMinutesDown": {
-      "2024-09-02": 12
-    }
+    "time": 1453,
+    "timeDay": 1636,
+    "timeWeek": 1498,
+    "timeMonth": 1433,
+    "timeYear": 1471,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Adacta",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1059,
-    "timeDay": 927,
-    "timeWeek": 941,
-    "timeMonth": 972,
+    "timeDay": 895,
+    "timeWeek": 936,
+    "timeMonth": 955,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2023-09-05": 53
@@ -50,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 1268,
-    "timeDay": 847,
-    "timeWeek": 1015,
-    "timeMonth": 1088,
+    "time": 1267,
+    "timeDay": 1021,
+    "timeWeek": 1018,
+    "timeMonth": 1078,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2024-08-01": 428,
@@ -83,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 1113,
-    "timeDay": 909,
-    "timeWeek": 1042,
-    "timeMonth": 1142,
+    "timeDay": 1000,
+    "timeWeek": 1050,
+    "timeMonth": 1128,
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2024-08-01": 428,
@@ -99,8 +97,7 @@
       "2024-04-26": 18,
       "2023-12-09": 69,
       "2023-12-08": 143,
-      "2023-09-25": 231,
-      "2023-09-04": 22
+      "2023-09-25": 231
     }
   },
   {
@@ -115,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 1265,
-    "timeDay": 1182,
-    "timeWeek": 1080,
-    "timeMonth": 1144,
-    "timeYear": 1240,
+    "timeDay": 1165,
+    "timeWeek": 1096,
+    "timeMonth": 1132,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2024-08-01": 428,
       "2024-07-31": 896,
@@ -130,8 +127,7 @@
       "2024-04-26": 18,
       "2023-12-09": 69,
       "2023-12-08": 149,
-      "2023-09-25": 239,
-      "2023-09-04": 22
+      "2023-09-25": 239
     }
   },
   {
@@ -145,10 +141,10 @@
     "uptimeWeek": "97.71%",
     "uptimeMonth": "95.68%",
     "uptimeYear": "98.52%",
-    "time": 9726,
-    "timeDay": 5231,
-    "timeWeek": 9760,
-    "timeMonth": 11392,
+    "time": 9724,
+    "timeDay": 4578,
+    "timeWeek": 9701,
+    "timeMonth": 10929,
     "timeYear": 10134,
     "dailyMinutesDown": {
       "2024-08-31": 231,
