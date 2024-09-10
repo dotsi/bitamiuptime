@@ -22,19 +22,19 @@
     "url": "https://www.adacta-fintech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.adacta-fintech.com.ico",
     "slug": "adacta",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1059,
-    "timeDay": 698,
-    "timeWeek": 1005,
-    "timeMonth": 982,
+    "timeDay": 760,
+    "timeWeek": 994,
+    "timeMonth": 979,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-09-10": 0
+      "2024-09-10": 10
     }
   },
   {
