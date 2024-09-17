@@ -1,7 +1,7 @@
 url: https://www.allhours.com/
-status: up
-code: 200
-responseTime: 1750
-lastUpdated: 2024-09-16T23:03:44.231Z
+status: down
+code: 502
+responseTime: 781
+lastUpdated: 2024-09-17T03:49:29.641Z
 startTime: 2021-09-08T07:59:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
