@@ -4,19 +4,19 @@
     "url": "https://www.be-terna.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.be-terna.com.ico",
     "slug": "be-terna",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1450,
-    "timeDay": 836,
-    "timeWeek": 1310,
-    "timeMonth": 1406,
-    "timeYear": 1470,
+    "time": 1449,
+    "timeDay": 879,
+    "timeWeek": 1279,
+    "timeMonth": 1395,
+    "timeYear": 1469,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 11
     }
   },
   {
