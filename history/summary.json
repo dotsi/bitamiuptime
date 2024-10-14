@@ -4,18 +4,20 @@
     "url": "https://www.be-terna.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.be-terna.com.ico",
     "slug": "be-terna",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1446,
-    "timeDay": 1485,
-    "timeWeek": 1233,
-    "timeMonth": 1299,
+    "timeDay": 1507,
+    "timeWeek": 1251,
+    "timeMonth": 1303,
     "timeYear": 1459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-14": 0
+    }
   },
   {
     "name": "Adacta",
@@ -142,7 +144,7 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.51%",
     "time": 10093,
-    "timeDay": 11635,
+    "timeDay": 11347,
     "timeWeek": 12501,
     "timeMonth": 11303,
     "timeYear": 10312,
