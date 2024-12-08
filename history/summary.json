@@ -12,8 +12,8 @@
     "uptimeYear": "99.97%",
     "time": 1431,
     "timeDay": 1137,
-    "timeWeek": 1467,
-    "timeMonth": 1404,
+    "timeWeek": 1403,
+    "timeMonth": 1402,
     "timeYear": 1441,
     "dailyMinutesDown": {
       "2024-11-13": 17,
@@ -36,7 +36,7 @@
     "uptimeYear": "100.00%",
     "time": 1065,
     "timeDay": 933,
-    "timeWeek": 1045,
+    "timeWeek": 998,
     "timeMonth": 1061,
     "timeYear": 1086,
     "dailyMinutesDown": {}
@@ -54,7 +54,7 @@
     "uptimeYear": "99.55%",
     "time": 1296,
     "timeDay": 1047,
-    "timeWeek": 1078,
+    "timeWeek": 1054,
     "timeMonth": 1368,
     "timeYear": 1312,
     "dailyMinutesDown": {
@@ -71,8 +71,7 @@
       "2024-05-18": 30,
       "2024-04-26": 18,
       "2024-04-16": 20,
-      "2024-03-26": 139,
-      "2023-12-09": 69
+      "2024-03-26": 139
     }
   },
   {
@@ -88,7 +87,7 @@
     "uptimeYear": "99.42%",
     "time": 1137,
     "timeDay": 980,
-    "timeWeek": 1099,
+    "timeWeek": 1076,
     "timeMonth": 1099,
     "timeYear": 1143,
     "dailyMinutesDown": {
@@ -105,8 +104,7 @@
       "2024-06-07": 786,
       "2024-06-06": 56,
       "2024-05-18": 30,
-      "2024-04-26": 18,
-      "2023-12-09": 69
+      "2024-04-26": 18
     }
   },
   {
@@ -121,8 +119,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.58%",
     "time": 1227,
-    "timeDay": 1203,
-    "timeWeek": 1170,
+    "timeDay": 1165,
+    "timeWeek": 1137,
     "timeMonth": 1182,
     "timeYear": 1183,
     "dailyMinutesDown": {
@@ -137,8 +135,7 @@
       "2024-07-08": 31,
       "2024-06-14": 10,
       "2024-05-18": 30,
-      "2024-04-26": 18,
-      "2023-12-09": 69
+      "2024-04-26": 18
     }
   },
   {
@@ -147,18 +144,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.44%",
+    "uptime": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "98.47%",
     "time": 10067,
     "timeDay": 2572,
-    "timeWeek": 9405,
+    "timeWeek": 9688,
     "timeMonth": 9551,
     "timeYear": 10388,
     "dailyMinutesDown": {
-      "2024-12-07": 3,
       "2024-11-28": 94,
       "2024-11-20": 61,
       "2024-11-11": 88,
