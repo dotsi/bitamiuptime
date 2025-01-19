@@ -30,18 +30,16 @@
     "slug": "adacta",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1066,
     "timeDay": 1148,
     "timeWeek": 996,
     "timeMonth": 994,
     "timeYear": 1092,
-    "dailyMinutesDown": {
-      "2025-01-18": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spica.com",
