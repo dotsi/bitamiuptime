@@ -28,18 +28,20 @@
     "url": "https://www.adacta-fintech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.adacta-fintech.com.ico",
     "slug": "adacta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1066,
-    "timeDay": 1397,
-    "timeWeek": 1137,
-    "timeMonth": 1029,
-    "timeYear": 1093,
-    "dailyMinutesDown": {}
+    "time": 1065,
+    "timeDay": 942,
+    "timeWeek": 1056,
+    "timeMonth": 1013,
+    "timeYear": 1092,
+    "dailyMinutesDown": {
+      "2025-02-05": 1
+    }
   },
   {
     "name": "Spica.com",
