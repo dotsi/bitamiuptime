@@ -28,18 +28,19 @@
     "url": "https://www.adacta-fintech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.adacta-fintech.com.ico",
     "slug": "adacta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 811,
-    "timeWeek": 1246,
-    "timeMonth": 1010,
-    "timeYear": 1058,
+    "time": 1068,
+    "timeDay": 676,
+    "timeWeek": 1175,
+    "timeMonth": 999,
+    "timeYear": 1057,
     "dailyMinutesDown": {
+      "2025-02-27": 1,
       "2025-02-12": 17
     }
   },
@@ -148,18 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.31%",
+    "uptime": "99.50%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "98.30%",
     "time": 10678,
     "timeDay": 12997,
     "timeWeek": 10882,
-    "timeMonth": 11436,
+    "timeMonth": 11208,
     "timeYear": 10925,
     "dailyMinutesDown": {
-      "2025-02-27": 8,
       "2025-02-26": 88,
       "2025-02-23": 29,
       "2025-02-19": 105,
@@ -222,7 +222,7 @@
       "2024-06-08": 143,
       "2024-05-28": 36,
       "2024-05-18": 499,
-      "2024-05-17": 111
+      "2024-05-17": 166
     }
   }
 ]
