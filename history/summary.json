@@ -28,17 +28,17 @@
     "url": "https://www.adacta-fintech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.adacta-fintech.com.ico",
     "slug": "adacta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1078,
-    "timeDay": 737,
-    "timeWeek": 954,
-    "timeMonth": 1032,
-    "timeYear": 1065,
+    "time": 1079,
+    "timeDay": 917,
+    "timeWeek": 1016,
+    "timeMonth": 1052,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2025-05-07": 18,
       "2025-02-12": 17
@@ -57,7 +57,7 @@
     "uptimeYear": "99.60%",
     "time": 1307,
     "timeDay": 933,
-    "timeWeek": 1328,
+    "timeWeek": 1310,
     "timeMonth": 1245,
     "timeYear": 1320,
     "dailyMinutesDown": {
@@ -92,7 +92,7 @@
     "uptimeYear": "99.44%",
     "time": 1138,
     "timeDay": 864,
-    "timeWeek": 1180,
+    "timeWeek": 1223,
     "timeMonth": 1165,
     "timeYear": 1147,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "99.61%",
     "time": 1181,
     "timeDay": 961,
-    "timeWeek": 1077,
+    "timeWeek": 1100,
     "timeMonth": 1156,
     "timeYear": 1183,
     "dailyMinutesDown": {
@@ -155,17 +155,17 @@
     "slug": "biseri-jadrana-si",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "83.93%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "98.67%",
     "time": 11088,
-    "timeDay": 14197,
+    "timeDay": 17514,
     "timeWeek": 12741,
     "timeMonth": 12529,
     "timeYear": 11276,
     "dailyMinutesDown": {
-      "2025-05-07": 44,
+      "2025-05-07": 35,
       "2025-05-06": 389,
       "2025-04-26": 307,
       "2025-04-23": 16,
@@ -222,7 +222,8 @@
       "2024-08-04": 285,
       "2024-08-03": 95,
       "2024-08-01": 167,
-      "2024-07-31": 740
+      "2024-07-31": 740,
+      "2024-07-30": 21
     }
   }
 ]
