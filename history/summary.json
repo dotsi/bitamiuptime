@@ -30,9 +30,9 @@
     "slug": "adacta",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1078,
     "timeDay": 744,
@@ -40,7 +40,6 @@
     "timeMonth": 1046,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2025-05-06": 7,
       "2025-02-12": 17
     }
   },
@@ -157,7 +156,7 @@
     "uptimeMonth": "97.71%",
     "uptimeYear": "98.67%",
     "time": 11039,
-    "timeDay": 14219,
+    "timeDay": 13216,
     "timeWeek": 11719,
     "timeMonth": 12304,
     "timeYear": 11254,
