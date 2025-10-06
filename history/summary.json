@@ -157,9 +157,9 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "93.24%",
+    "uptimeDay": "93.22%",
     "uptimeWeek": "95.38%",
     "uptimeMonth": "96.56%",
     "uptimeYear": "98.91%",
@@ -217,7 +217,7 @@
       "2025-08-03": 236,
       "2025-08-02": 282,
       "2025-08-01": 102,
-      "2025-07-31": 411
+      "2025-07-31": 392
     }
   }
 ]
