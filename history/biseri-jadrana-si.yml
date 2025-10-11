@@ -1,7 +1,7 @@
 url: https://www.biseri-jadrana.si/
-status: up
-code: 200
-responseTime: 13615
-lastUpdated: 2025-10-11T09:40:35.781Z
+status: down
+code: 500
+responseTime: 11766
+lastUpdated: 2025-10-11T09:47:05.865Z
 startTime: 2021-09-24T20:30:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
