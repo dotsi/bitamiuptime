@@ -47,9 +47,9 @@
     "url": "https://www.spica.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.spica.com.ico",
     "slug": "spica-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.50%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.82%",
@@ -57,8 +57,9 @@
     "timeDay": 1222,
     "timeWeek": 2042,
     "timeMonth": 1470,
-    "timeYear": 1375,
+    "timeYear": 1372,
     "dailyMinutesDown": {
+      "2025-11-15": 0,
       "2025-11-09": 454,
       "2025-11-01": 32,
       "2025-10-27": 17,
@@ -135,7 +136,7 @@
     "timeDay": 2537,
     "timeWeek": 2510,
     "timeMonth": 2089,
-    "timeYear": 1546,
+    "timeYear": 1547,
     "dailyMinutesDown": {
       "2025-11-09": 454,
       "2025-11-01": 32,
@@ -164,18 +165,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "99.12%",
     "time": 12445,
     "timeDay": 11079,
     "timeWeek": 9082,
     "timeMonth": 12489,
     "timeYear": 12620,
     "dailyMinutesDown": {
-      "2025-11-15": 10,
       "2025-11-13": 34,
       "2025-11-01": 81,
       "2025-10-31": 475,
@@ -223,7 +223,8 @@
       "2025-08-26": 69,
       "2025-08-23": 87,
       "2025-08-22": 128,
-      "2025-08-20": 21
+      "2025-08-20": 21,
+      "2025-08-19": 330
     }
   }
 ]
