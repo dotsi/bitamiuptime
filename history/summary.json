@@ -26,9 +26,9 @@
     "slug": "adacta",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "78.01%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "76.88%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.89%",
     "time": 1026,
     "timeDay": 1121,
@@ -36,7 +36,7 @@
     "timeMonth": 1086,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2025-12-24": 260,
+      "2025-12-24": 277,
       "2025-12-23": 56,
       "2025-12-19": 21,
       "2025-12-09": 107,
@@ -170,13 +170,13 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "98.74%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "91.86%",
-    "uptimeYear": "98.89%",
-    "time": 12681,
+    "uptimeYear": "98.90%",
+    "time": 12684,
     "timeDay": 14888,
     "timeWeek": 12977,
     "timeMonth": 13185,
@@ -226,8 +226,7 @@
       "2025-10-08": 152,
       "2025-10-07": 145,
       "2025-10-06": 17,
-      "2025-10-05": 81,
-      "2025-09-30": 17
+      "2025-10-05": 81
     }
   }
 ]
