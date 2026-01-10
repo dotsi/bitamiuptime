@@ -33,7 +33,7 @@
     "time": 1020,
     "timeDay": 1281,
     "timeWeek": 1132,
-    "timeMonth": 1062,
+    "timeMonth": 1056,
     "timeYear": 1018,
     "dailyMinutesDown": {
       "2025-12-24": 1306,
@@ -172,17 +172,17 @@
     "slug": "biseri-jadrana-si",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "88.81%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "98.92%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "88.85%",
+    "uptimeMonth": "89.96%",
+    "uptimeYear": "98.91%",
     "time": 12902,
     "timeDay": 15570,
     "timeWeek": 14648,
     "timeMonth": 13875,
     "timeYear": 12979,
     "dailyMinutesDown": {
-      "2026-01-09": 78,
+      "2026-01-09": 74,
       "2026-01-08": 143,
       "2026-01-07": 309,
       "2026-01-06": 80,
@@ -212,7 +212,8 @@
       "2025-12-07": 599,
       "2025-12-06": 20,
       "2025-12-05": 53,
-      "2025-12-04": 103
+      "2025-12-04": 103,
+      "2025-12-03": 20
     }
   }
 ]
