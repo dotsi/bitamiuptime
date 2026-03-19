@@ -73,7 +73,7 @@
     "timeDay": 1354,
     "timeWeek": 1884,
     "timeMonth": 1839,
-    "timeYear": 1444,
+    "timeYear": 1445,
     "dailyMinutesDown": {
       "2026-03-11": 65,
       "2026-03-03": 20,
@@ -156,7 +156,7 @@
     "timeDay": 2708,
     "timeWeek": 2661,
     "timeMonth": 3070,
-    "timeYear": 1861,
+    "timeYear": 1863,
     "dailyMinutesDown": {
       "2026-03-11": 88,
       "2026-02-04": 129,
@@ -188,17 +188,17 @@
     "slug": "biseri-jadrana-si",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "91.82%",
-    "uptimeMonth": "86.67%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "86.52%",
     "uptimeYear": "98.82%",
     "time": 12733,
-    "timeDay": 8015,
-    "timeWeek": 9162,
-    "timeMonth": 10396,
-    "timeYear": 12791,
+    "timeDay": 7063,
+    "timeWeek": 9141,
+    "timeMonth": 10360,
+    "timeYear": 12787,
     "dailyMinutesDown": {
-      "2026-03-19": 54,
+      "2026-03-19": 121,
       "2026-03-18": 103,
       "2026-03-17": 134,
       "2026-03-16": 112,
@@ -225,8 +225,7 @@
       "2026-02-20": 182,
       "2026-02-19": 201,
       "2026-02-18": 30,
-      "2026-02-17": 68,
-      "2026-02-16": 67
+      "2026-02-17": 68
     }
   }
 ]
