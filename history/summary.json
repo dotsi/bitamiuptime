@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1588,
-    "timeDay": 1856,
-    "timeWeek": 1468,
-    "timeMonth": 1570,
-    "timeYear": 1632,
+    "time": 1589,
+    "timeDay": 1278,
+    "timeWeek": 1422,
+    "timeMonth": 1554,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2026-02-20": 566,
       "2026-02-19": 56,
@@ -33,10 +33,10 @@
     "uptimeMonth": "91.66%",
     "uptimeYear": "99.00%",
     "time": 1611,
-    "timeDay": 1093,
-    "timeWeek": 975,
-    "timeMonth": 5511,
-    "timeYear": 1771,
+    "timeDay": 780,
+    "timeWeek": 927,
+    "timeMonth": 5506,
+    "timeYear": 1770,
     "dailyMinutesDown": {
       "2026-03-09": 19,
       "2026-03-07": 214,
@@ -70,9 +70,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.77%",
     "time": 1428,
-    "timeDay": 1444,
-    "timeWeek": 1502,
-    "timeMonth": 1682,
+    "timeDay": 1024,
+    "timeWeek": 1162,
+    "timeMonth": 1668,
     "timeYear": 1446,
     "dailyMinutesDown": {
       "2026-03-11": 65,
@@ -95,8 +95,7 @@
       "2025-05-14": 24,
       "2025-05-12": 19,
       "2025-05-07": 47,
-      "2025-04-14": 18,
-      "2025-03-23": 26
+      "2025-04-14": 18
     }
   },
   {
@@ -110,10 +109,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.78%",
-    "time": 1189,
-    "timeDay": 1426,
-    "timeWeek": 1221,
-    "timeMonth": 1291,
+    "time": 1188,
+    "timeDay": 980,
+    "timeWeek": 1190,
+    "timeMonth": 1267,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2026-03-11": 64,
@@ -135,8 +134,7 @@
       "2025-06-10": 21,
       "2025-05-14": 24,
       "2025-05-12": 19,
-      "2025-05-07": 47,
-      "2025-03-23": 26
+      "2025-05-07": 47
     }
   },
   {
@@ -150,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.77%",
-    "time": 1745,
-    "timeDay": 2784,
-    "timeWeek": 2641,
-    "timeMonth": 3088,
-    "timeYear": 1871,
+    "time": 1747,
+    "timeDay": 2919,
+    "timeWeek": 2734,
+    "timeMonth": 3092,
+    "timeYear": 1873,
     "dailyMinutesDown": {
       "2026-03-11": 88,
       "2026-02-04": 129,
@@ -174,8 +172,7 @@
       "2025-06-10": 21,
       "2025-05-14": 24,
       "2025-05-12": 19,
-      "2025-05-07": 47,
-      "2025-03-23": 26
+      "2025-05-07": 47
     }
   },
   {
@@ -184,16 +181,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "73.41%",
+    "uptime": "99.74%",
+    "uptimeDay": "75.56%",
     "uptimeWeek": "89.57%",
-    "uptimeMonth": "87.88%",
+    "uptimeMonth": "87.98%",
     "uptimeYear": "98.81%",
     "time": 12741,
-    "timeDay": 10812,
-    "timeWeek": 11913,
-    "timeMonth": 11113,
-    "timeYear": 12793,
+    "timeDay": 9381,
+    "timeWeek": 12131,
+    "timeMonth": 10907,
+    "timeYear": 12794,
     "dailyMinutesDown": {
       "2026-03-22": 353,
       "2026-03-21": 74,
