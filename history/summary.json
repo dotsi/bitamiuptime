@@ -71,7 +71,7 @@
     "slug": "spica-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "97.03%",
+    "uptimeDay": "98.24%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.76%",
@@ -79,7 +79,7 @@
     "timeDay": 1052,
     "timeWeek": 1305,
     "timeMonth": 1296,
-    "timeYear": 1467,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2025-07-12": 37,
       "2025-07-13": 22,
@@ -159,7 +159,7 @@
     "timeDay": 2849,
     "timeWeek": 3011,
     "timeMonth": 3065,
-    "timeYear": 2116,
+    "timeYear": 2119,
     "dailyMinutesDown": {
       "2025-06-10": 21,
       "2025-07-12": 37,
@@ -186,19 +186,19 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "97.66%",
+    "uptimeDay": "97.63%",
     "uptimeWeek": "95.86%",
     "uptimeMonth": "95.53%",
-    "uptimeYear": "98.89%",
-    "time": 12773,
-    "timeDay": 2769,
-    "timeWeek": 5928,
-    "timeMonth": 12047,
-    "timeYear": 12763,
+    "uptimeYear": "98.90%",
+    "time": 12778,
+    "timeDay": 8109,
+    "timeWeek": 7142,
+    "timeMonth": 12204,
+    "timeYear": 12768,
     "dailyMinutesDown": {
-      "2026-04-05": 63,
+      "2026-04-05": 34,
       "2026-04-06": 263,
       "2026-04-07": 165,
       "2026-04-08": 438,
@@ -238,7 +238,8 @@
       "2026-05-19": 133,
       "2026-05-24": 132,
       "2026-05-25": 251,
-      "2026-05-26": 34
+      "2026-05-26": 34,
+      "2026-05-27": 0
     }
   }
 ]
