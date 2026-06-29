@@ -68,11 +68,11 @@
     "url": "https://www.spica.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.spica.com.ico",
     "slug": "spica-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.76%",
     "time": 1441,
     "timeDay": 994,
@@ -100,7 +100,8 @@
       "2026-04-08": 24,
       "2026-04-16": 56,
       "2026-04-24": 39,
-      "2026-05-26": 43
+      "2026-05-26": 43,
+      "2026-06-29": 16
     }
   },
   {
@@ -108,12 +109,12 @@
     "url": "https://www.spica.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.spica.si.ico",
     "slug": "spica-si",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.77%",
     "time": 1212,
     "timeDay": 1000,
     "timeWeek": 1262,
@@ -139,7 +140,8 @@
       "2026-04-08": 22,
       "2026-04-16": 55,
       "2026-04-24": 38,
-      "2026-05-03": 24
+      "2026-05-03": 24,
+      "2026-06-29": 7
     }
   },
   {
@@ -186,13 +188,13 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "94.41%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "91.55%",
+    "uptimeWeek": "93.09%",
+    "uptimeMonth": "91.84%",
     "uptimeYear": "98.53%",
     "time": 12786,
     "timeDay": 24131,
-    "timeWeek": 14229,
-    "timeMonth": 12976,
+    "timeWeek": 15600,
+    "timeMonth": 12795,
     "timeYear": 12840,
     "dailyMinutesDown": {
       "2026-04-13": 37,
