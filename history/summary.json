@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spica.com.ico",
     "slug": "spica-com",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -184,17 +184,17 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "98.51%",
-    "time": 12814,
-    "timeDay": 20898,
-    "timeWeek": 13726,
-    "timeMonth": 12777,
-    "timeYear": 12844,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "89.05%",
+    "uptimeWeek": "93.10%",
+    "uptimeMonth": "90.40%",
+    "uptimeYear": "98.49%",
+    "time": 12812,
+    "timeDay": 18092,
+    "timeWeek": 13383,
+    "timeMonth": 12709,
+    "timeYear": 12840,
     "dailyMinutesDown": {
       "2026-04-15": 126,
       "2026-04-16": 215,
@@ -254,7 +254,7 @@
       "2026-07-05": 53,
       "2026-07-06": 253,
       "2026-07-07": 61,
-      "2026-07-08": 0
+      "2026-07-08": 97
     }
   }
 ]
