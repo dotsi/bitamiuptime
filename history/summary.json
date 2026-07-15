@@ -183,17 +183,16 @@
     "slug": "biseri-jadrana-si",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "95.57%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "93.20%",
-    "uptimeYear": "98.47%",
-    "time": 12844,
-    "timeDay": 18147,
-    "timeWeek": 13351,
-    "timeMonth": 13454,
-    "timeYear": 12825,
+    "uptimeDay": "88.17%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "92.96%",
+    "uptimeYear": "98.46%",
+    "time": 12842,
+    "timeDay": 17306,
+    "timeWeek": 13634,
+    "timeMonth": 13515,
+    "timeYear": 12828,
     "dailyMinutesDown": {
-      "2026-04-16": 29,
       "2026-04-17": 213,
       "2026-04-18": 38,
       "2026-04-19": 25,
@@ -253,7 +252,8 @@
       "2026-07-08": 97,
       "2026-07-09": 217,
       "2026-07-13": 111,
-      "2026-07-14": 64
+      "2026-07-14": 64,
+      "2026-07-15": 107
     }
   }
 ]
