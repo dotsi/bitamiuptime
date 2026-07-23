@@ -181,17 +181,17 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "81.44%",
-    "uptimeWeek": "79.79%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "98.19%",
-    "time": 12832,
-    "timeDay": 13493,
-    "timeWeek": 10612,
-    "timeMonth": 12871,
-    "timeYear": 12795,
+    "uptimeDay": "80.86%",
+    "uptimeWeek": "79.03%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "98.17%",
+    "time": 12828,
+    "timeDay": 13477,
+    "timeWeek": 10380,
+    "timeMonth": 12803,
+    "timeYear": 12783,
     "dailyMinutesDown": {
       "2026-04-24": 43,
       "2026-04-23": 16,
@@ -255,7 +255,7 @@
       "2026-07-20": 378,
       "2026-07-21": 148,
       "2026-07-22": 279,
-      "2026-07-23": 198
+      "2026-07-23": 276
     }
   }
 ]
