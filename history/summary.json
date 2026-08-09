@@ -68,17 +68,17 @@
     "url": "https://www.spica.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.spica.com.ico",
     "slug": "spica-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.70%",
     "time": 1449,
     "timeDay": 1691,
     "timeWeek": 1314,
     "timeMonth": 1489,
-    "timeYear": 1505,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2025-08-30": 40,
       "2025-09-12": 35,
@@ -99,7 +99,8 @@
       "2026-05-26": 43,
       "2026-06-29": 21,
       "2026-07-11": 247,
-      "2026-07-27": 206
+      "2026-07-27": 206,
+      "2026-08-09": 6
     }
   },
   {
@@ -154,7 +155,7 @@
     "timeDay": 5356,
     "timeWeek": 4067,
     "timeMonth": 3787,
-    "timeYear": 2474,
+    "timeYear": 2479,
     "dailyMinutesDown": {
       "2025-08-30": 40,
       "2025-09-08": 25,
@@ -178,19 +179,19 @@
     "url": "https://www.biseri-jadrana.si/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biseri-jadrana.si.ico",
     "slug": "biseri-jadrana-si",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.30%",
-    "uptimeYear": "97.92%",
-    "time": 12772,
-    "timeDay": 5447,
-    "timeWeek": 6613,
-    "timeMonth": 12248,
-    "timeYear": 12789,
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "97.94%",
+    "time": 12769,
+    "timeDay": 5818,
+    "timeWeek": 6560,
+    "timeMonth": 12224,
+    "timeYear": 12786,
     "dailyMinutesDown": {
-      "2026-04-26": 256,
+      "2026-04-26": 124,
       "2026-04-28": 88,
       "2026-04-30": 138,
       "2026-05-01": 30,
@@ -255,7 +256,8 @@
       "2026-07-28": 283,
       "2026-07-29": 287,
       "2026-07-31": 72,
-      "2026-08-01": 202
+      "2026-08-01": 202,
+      "2026-08-09": 0
     }
   }
 ]
